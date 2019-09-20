@@ -4,4 +4,6 @@ My test file.
 
 welcome to my testing file
 
-Test If you have enough Time
+Test If you have enough Time.
+
+Test if you have enough money.
